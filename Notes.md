@@ -70,7 +70,7 @@ Example: 192.1.1.1 > here 192 or the first octet is used to find the class of IP
     -   Example: Switch to PC
 2.  Cross Cable
 
-    > Used to connect two dissimilar devices
+    > Used to connect two similar devices
 
     -   Example: Switch to Switch
 
@@ -90,7 +90,7 @@ Example: 192.1.1.1 > here 192 or the first octet is used to find the class of IP
 
     -   Green & Green White
 
-    *   Diagram:
+    *   ## Diagram: <br>
         ![Image](https://media.fs.com/images/community/upload/wangEditor/201911/06/_1573024232_I7qO4uoRQQ.jpg)
 
 **3. Patch Cable**
