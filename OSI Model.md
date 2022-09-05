@@ -43,7 +43,7 @@
 -   -   we will send 8 again
 -   **example** = online gaming
 
-1. ## Session Layer
+5. ## Session Layer
 
 -   session id
 -   session expired
@@ -61,3 +61,4 @@ max 20 connections
 -   IP ADDRESS uses
 -   ICMP {Internet Control Message Protocol}
 -   MAC = MEDIA ACCESS CONTROL
+-   ARP {Address Resolution Protocol}

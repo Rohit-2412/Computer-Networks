@@ -18,7 +18,7 @@ Example: 192.1.1.1 > here 192 or the first octet is used to find the class of IP
     > 1 NETWORK ID & 3 HOST ID
     > default subnet mask = 255.0.0.0
 
-> `*127 is used for local machine*`
+> `127 is used for local machine`
 
 1. B = 128 - 191
 
@@ -38,7 +38,7 @@ Example: 192.1.1.1 > here 192 or the first octet is used to find the class of IP
     1. Example: 2345:0425:2CA1:0000:0000:0567:5673:23b5
     2. Size = 128 bits
 
-> `**Default ip address is based upon class of ip address**`
+`Default ip address is based upon class of ip address`
 
 ` Bruteforce = A technique used to break passwords forcefully`
 
@@ -58,7 +58,7 @@ Example: 192.1.1.1 > here 192 or the first octet is used to find the class of IP
 -   Multiport network device
 -   DLL Table
 -   Collision decreases
--   IPv6 introduced for bigger
+-   IPv6 introduced for bigger network
 
 -   ### DOS = Disk Operating System
 -   ### DOS = Denial of Service
@@ -97,7 +97,7 @@ Example: 192.1.1.1 > here 192 or the first octet is used to find the class of IP
 
 > It can work like both cables- straight and cross
 
--   Telephone wire uses rj 11 connector
+-   Telephone wire uses `RJ11` connector
 
 -   First side wire arrangement doesn't matter in cross cable, other end matters
 
@@ -107,7 +107,7 @@ Example: 192.1.1.1 > here 192 or the first octet is used to find the class of IP
 2. multicast - **selected** persons
 3. broadcast - **one to all** (2 or 200000)
 
-## Types of ip address assigning
+## Types of IP address assigning
 
 ### DHCP = Dynamic Host Configuration Protocol
 
