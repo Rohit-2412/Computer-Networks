@@ -1,17 +1,26 @@
 ## ping = packet identifier grouper
 
-`command:`
-`ping address{ip address or url}`
+**Command :**
+
+```
+ping address{ip address or url}
+```
 
 > it will send and receive 4 packets
 
-`ping www.google.com -n 10`
+```
+ping www.google.com -n 10
+```
 
 > for getting n number of packets
 
 ## MAC (Media Access Control) Address
 
-`getmac`
+```
+getmac
+```
+
+Output:
 
 ```
 Physical Address    Transport Name
@@ -21,9 +30,12 @@ Physical Address    Transport Name
 ```
 
 **RIP = Routing Information Protocol** <br>
-**OSPF = open shortest path first (in case of traffic)**
 
-> Length: 48 bits
+**OSPF = Open Shortest Path First (in case of traffic)**
+
+> Example = google search engine
+
+> MAC Address Length: 48 bits
 > Further 24 bits and 24 bits
 
 ### To check vendor's MAC address (NIC card) connect wired or wireless device
